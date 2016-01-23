@@ -1,2 +1,3 @@
 hello git
 mehmet yılmaz 
+git diff
